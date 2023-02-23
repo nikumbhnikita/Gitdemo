@@ -1,0 +1,4 @@
+ 1. upload folder from local to github repo
+2. create folder 
+3. create file in folder
+4.

@@ -3,3 +3,4 @@
 3. create file in folder
 4. change dir to folder in git bash
        cd upload_data
+5.dir
